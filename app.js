@@ -1,3 +1,9 @@
+/*
+This code is really old and really bad.
+It was a quick testing script I made when learning JavaScript.
+It is only a proof-of-concept and shouldn't be used in production.
+*/
+
 const opn = require('opn');
 const os = require('os');
 const Discord = require('discord.js');
